@@ -97,3 +97,5 @@ console.log(heros);
 
 console.log(heros.splice(2,0,5,6));
 console.log(heros);
+
+ 
