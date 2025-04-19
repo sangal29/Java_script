@@ -1,1 +1,2 @@
- // console.log(val*val)
+
+// console.log(val*val)
