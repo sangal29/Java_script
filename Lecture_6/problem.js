@@ -1,3 +1,4 @@
+
 let rec  = document.getElementsByTagName("h2");
 console.dir(rec[0].innerText);
 rec[0].innerText = rec[0].innerText + "From Apna College";
