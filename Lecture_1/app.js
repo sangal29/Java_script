@@ -1,4 +1,5 @@
-    console.log("Hello world");
+]
+console.log("Hello world");
     name = " anjali";
     var student ={
         fullName :"Rishabh Sangal",
